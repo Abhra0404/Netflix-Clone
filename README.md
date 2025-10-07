@@ -1,20 +1,20 @@
 # Netflix Clone
 
-A UI-focused Netflix clone (landing / streaming interface) built using HTML, CSS (and any JS / frameworks you’re using).  
+A UI-focused Netflix clone (landing interface) built using HTML, CSS.  
 
 ## 📖 Overview
 
-This project is a clone of Netflix’s homepage/streaming UI — with responsive design, mock/movie listings, and (optional) trailer playback. The idea is to mimic Netflix’s look & feel to practice frontend skills.
+This project is a clone of Netflix’s homepage/streaming UI — with responsive design, mock/movie listings, and trailer playback. The idea is to mimic Netflix’s look & feel to practice frontend skills.
 
-Live demo: [Your Github Pages link]  
-(If hosted)  
+Live demo: [[Your Github Pages link]](https://abhra0404.github.io/Netflix-Clone/)  
+ 
 
 ## 🧰 Tech Stack
 
-- **Frontend**: HTML, CSS, (optionally JavaScript)  
+- **Frontend**: HTML, CSS  
 - **Assets**: images, video files  
 - **Hosting**: GitHub Pages (or any static hosting)  
-- **Optional**: API (e.g. TMDB) if dynamic content  
+ 
 
 ## 🚀 Features (Possible / Implemented)
 
@@ -26,5 +26,4 @@ Live demo: [Your Github Pages link]
 - Navigation bar with logo, menu, search  
 - Footer links / static content  
 
-## 💾 Project Structure
 
